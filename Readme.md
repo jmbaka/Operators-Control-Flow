@@ -57,10 +57,10 @@ Example: 5 << 2 returns 20 (in binary: 101 << 2 = 10100)
 Right shift: >>
 Example: 10 >> 1 returns 5 (in binary: 1010 >> 1 = 0101)
 
-4. **Question 4**
+### Question 4
 **What is the result when the following program is executed?**
 
-![](/assets/images/operators.jpeg)
+![](/assets/images/operators.jpg)
 
 ### Answers
 *   When the above program is executed, it will output the following values to the console:
