@@ -56,3 +56,17 @@ Left shift: <<
 Example: 5 << 2 returns 20 (in binary: 101 << 2 = 10100)
 Right shift: >>
 Example: 10 >> 1 returns 5 (in binary: 1010 >> 1 = 0101)
+
+4. **Question 4**
+**What is the result when the following program is executed?**
+
+![](/assets/images/operators.jpeg)
+
+### Answers
+*   When the above program is executed, it will output the following values to the console:
+ 1
+ 8
+ 15
+*   This is because the for loop initializes the variable i to 1, and then continues looping as long as i is less than 20. In each iteration of the loop, the code block is executed, which includes the statement console.log(i), printing the value of i to the console.
+
+*   The loop also increases i by 7 in each iteration, using the expression i += 7. So, the first value printed is 1, then 8 (which is 1 + 7), and finally 15 (which is 8 + 7). Since 15 + 7 is greater than or equal to 20, the loop terminates and the program ends.

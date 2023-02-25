@@ -20,24 +20,6 @@ if (classGroup === Science) {
 // We then use the if...else conditional statement to check which class group Bolatito belongs to, and print out the corresponding list of subjects using console.log(). If the class group is invalid (i.e. none of the specified options), the program prints out the general subjects.
 
 
-
-
-// Question 2
-// What is the result when the following program is executed?
-
-for (let i =1; i < 20; i+= 7) {
-  console.log(i);
- };
-// When the above program is executed, it will output the following values to the console:
- 1
- 8
- 15
-// This is because the for loop initializes the variable i to 1, and then continues looping as long as i is less than 20. In each iteration of the loop, the code block is executed, which includes the statement console.log(i), printing the value of i to the console.
-
-// The loop also increases i by 7 in each iteration, using the expression i += 7. So, the first value printed is 1, then 8 (which is 1 + 7), and finally 15 (which is 8 + 7). Since 15 + 7 is greater than or equal to 20, the loop terminates and the program ends.
-
-
-
 // Question 5
 
 function findPowerOfTwo(num) {
