@@ -60,7 +60,7 @@ Example: 10 >> 1 returns 5 (in binary: 1010 >> 1 = 0101)
 ### Question 4
 **What is the result when the following program is executed?**
 
-![](/assets/images/operators.jpg)
+![](./assets/operators.jpg)
 
 ### Answers
 *   When the above program is executed, it will output the following values to the console:
